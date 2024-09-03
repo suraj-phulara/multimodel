@@ -1,0 +1,8 @@
+streamlit
+Pillow
+transformers
+opensearch-py
+python-dotenv
+langchain
+numpy
+requests
